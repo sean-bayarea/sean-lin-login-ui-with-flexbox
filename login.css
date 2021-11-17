@@ -17,7 +17,8 @@ H1 {
     border-style: none ;
     border-width: 4px;
     border-radius: 12px;
-    border-color: rgba(0,0,0,0);
+    border-color: rgba(71, 70, 70, 0);
+    background-color: lightgray;
     min-width: 30%;
     min-height: 20%;
     display: flex;
@@ -28,7 +29,7 @@ H1 {
 }
 
 .card button{
-    box-shadow: 10px 10px;
+    box-shadow: 2px 2px;
     border-radius: 10px;
     padding-left: 30px;
     padding-right: 30px;
